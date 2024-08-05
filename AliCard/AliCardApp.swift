@@ -2,7 +2,7 @@
 //  AliCardApp.swift
 //  AliCard
 //
-//  Created by Ali-Logestechs on 02/11/2023.
+//  Created by Ali-Malluh on 02/11/2023.
 //
 
 import SwiftUI
